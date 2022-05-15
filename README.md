@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kevinmenis](https://github.com/kevinmenis)
 
-- 💬 Ask me about **PHP, Javascript, HTML, CSS, SQL y Bootstrap**
+- 💬 Ask me about **PHP, Javascript, HTML, CSS, MySQL y Bootstrap**
 
 - 📫 How to reach me **kevinmenis41@gmail.com**
 

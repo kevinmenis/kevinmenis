@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Menis</h1>
-<h3 align="center">FullStack Developer from Argentina</h3>
+<h3 align="center">FullStack Developer from Buenos Aires, Argentina</h3>
 
 - 🔭 I’m currently working on [SysWorld](https://www.sysworld.com.ar/)
 
